@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\obj\Debug\netcoreapp3.1\Programacion_BuclesWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\obj\Debug\netcoreapp3.1\Programacion_BuclesWhile.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\obj\Debug\netcoreapp3.1\Programacion_BuclesWhile.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\obj\Debug\netcoreapp3.1\Programacion_BuclesWhile.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\bin\Debug\netcoreapp3.1\Programacion_BuclesWhile.exe
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\bin\Debug\netcoreapp3.1\Programacion_BuclesWhile.deps.json
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\bin\Debug\netcoreapp3.1\Programacion_BuclesWhile.runtimeconfig.json
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\bin\Debug\netcoreapp3.1\Programacion_BuclesWhile.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\bin\Debug\netcoreapp3.1\Programacion_BuclesWhile.dll
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\bin\Debug\netcoreapp3.1\Programacion_BuclesWhile.pdb
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\obj\Debug\netcoreapp3.1\Programacion_BuclesWhile.dll
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\obj\Debug\netcoreapp3.1\Programacion_BuclesWhile.pdb
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\obj\Debug\netcoreapp3.1\Programacion_BuclesWhile.genruntimeconfig.cache

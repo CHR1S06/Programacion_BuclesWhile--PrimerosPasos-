@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|c:\\users\\usergpc\\source\\repos\\programacion_bucleswhile\\programacion_bucleswhile\\clases\\apps\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|solutionrelative:programacion_bucleswhile\\clases\\apps\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|c:\\users\\usergpc\\source\\repos\\programacion_bucleswhile\\programacion_bucleswhile\\clases\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|solutionrelative:programacion_bucleswhile\\clases\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|c:\\users\\usergpc\\source\\repos\\programacion_bucleswhile\\programacion_bucleswhile\\clases\\apps\\app2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|solutionrelative:programacion_bucleswhile\\clases\\apps\\app2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|c:\\users\\usergpc\\source\\repos\\programacion_bucleswhile\\programacion_bucleswhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|solutionrelative:programacion_bucleswhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App2.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\clases\\Apps\\App2.cs",
+              "RelativeDocumentMoniker": "Programacion_BuclesWhile\\clases\\Apps\\App2.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\clases\\Apps\\App2.cs",
+              "RelativeToolTip": "Programacion_BuclesWhile\\clases\\Apps\\App2.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwE8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:33:36.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App1.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\clases\\Apps\\App1.cs",
+              "RelativeDocumentMoniker": "Programacion_BuclesWhile\\clases\\Apps\\App1.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\clases\\Apps\\App1.cs",
+              "RelativeToolTip": "Programacion_BuclesWhile\\clases\\Apps\\App1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:33:25.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\clases\\Menu.cs",
+              "RelativeDocumentMoniker": "Programacion_BuclesWhile\\clases\\Menu.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\clases\\Menu.cs",
+              "RelativeToolTip": "Programacion_BuclesWhile\\clases\\Menu.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:33:03.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\Program.cs",
+              "RelativeDocumentMoniker": "Programacion_BuclesWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\Program.cs",
+              "RelativeToolTip": "Programacion_BuclesWhile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:41:31.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
