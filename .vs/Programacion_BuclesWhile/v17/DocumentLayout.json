@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|c:\\users\\usergpc\\source\\repos\\programacion_bucleswhile\\programacion_bucleswhile\\clases\\apps\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|solutionrelative:programacion_bucleswhile\\clases\\apps\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|c:\\users\\usergpc\\source\\repos\\programacion_bucleswhile\\programacion_bucleswhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|solutionrelative:programacion_bucleswhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|c:\\users\\usergpc\\source\\repos\\programacion_bucleswhile\\programacion_bucleswhile\\clases\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|solutionrelative:programacion_bucleswhile\\clases\\apps\\app2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|c:\\users\\usergpc\\source\\repos\\programacion_bucleswhile\\programacion_bucleswhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|solutionrelative:programacion_bucleswhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|c:\\users\\usergpc\\source\\repos\\programacion_bucleswhile\\programacion_bucleswhile\\clases\\apps\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811838A-A03D-4388-99A1-C430FFA9DC63}|Programacion_BuclesWhile\\Programacion_BuclesWhile.csproj|solutionrelative:programacion_bucleswhile\\clases\\apps\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,19 +40,20 @@
               "RelativeDocumentMoniker": "Programacion_BuclesWhile\\clases\\Apps\\App2.cs",
               "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\clases\\Apps\\App2.cs",
               "RelativeToolTip": "Programacion_BuclesWhile\\clases\\Apps\\App2.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwE8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T19:33:36.167Z"
+              "WhenOpened": "2024-09-10T19:33:36.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "App1.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\clases\\Apps\\App1.cs",
               "RelativeDocumentMoniker": "Programacion_BuclesWhile\\clases\\Apps\\App1.cs",
               "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\clases\\Apps\\App1.cs",
               "RelativeToolTip": "Programacion_BuclesWhile\\clases\\Apps\\App1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T19:33:25.545Z",
               "EditorCaption": ""
@@ -65,21 +66,23 @@
               "RelativeDocumentMoniker": "Programacion_BuclesWhile\\clases\\Menu.cs",
               "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\clases\\Menu.cs",
               "RelativeToolTip": "Programacion_BuclesWhile\\clases\\Menu.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T19:33:03.732Z"
+              "WhenOpened": "2024-09-10T19:33:03.732Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\Program.cs",
               "RelativeDocumentMoniker": "Programacion_BuclesWhile\\Program.cs",
               "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\Programacion_BuclesWhile\\Programacion_BuclesWhile\\Program.cs",
               "RelativeToolTip": "Programacion_BuclesWhile\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T20:41:31.23Z"
+              "WhenOpened": "2024-09-07T20:41:31.23Z",
+              "EditorCaption": ""
             }
           ]
         }

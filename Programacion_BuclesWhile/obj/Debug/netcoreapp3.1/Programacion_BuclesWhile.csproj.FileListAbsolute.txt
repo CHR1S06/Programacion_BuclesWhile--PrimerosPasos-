@@ -11,3 +11,4 @@ C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\
 C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\obj\Debug\netcoreapp3.1\Programacion_BuclesWhile.dll
 C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\obj\Debug\netcoreapp3.1\Programacion_BuclesWhile.pdb
 C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\obj\Debug\netcoreapp3.1\Programacion_BuclesWhile.genruntimeconfig.cache
+C:\Users\UserGPC\source\repos\Programacion_BuclesWhile\Programacion_BuclesWhile\obj\Debug\netcoreapp3.1\Programacion_BuclesWhile.sourcelink.json
